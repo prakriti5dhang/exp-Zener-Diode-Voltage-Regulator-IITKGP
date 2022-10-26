@@ -85,7 +85,7 @@ $$V_S = V_{Imin} - V_Z$$
 
 $$I_S = \frac{V_{Imin}− V_Z}{R_S}$$
 
-For $$R_L$$ < $$R_{Lmin}$$,
+For $$R_L \le R_{Lmin}$$,
 
 $$V_O= V_I$$
 
@@ -115,7 +115,7 @@ $$V_O = V_I − I_S \times R_S$$
 </div>
 
 3. Determine the R<sub>Lmin</sub>, where R<sub>S</sub>=1KΩ ,Vin=50V, V<sub>Z</sub>=10V
-div align="center">
+
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Ans:R<sub>Lmin</sub>=300Ω ]
 
