@@ -103,21 +103,22 @@ $$V_O = V_I − I_S \times R_S$$
 <p>Figure 5  </p>
 </div>
 
-2. Determine the range of $$V_S$$ for obtaining a regulated voltage shown in Fig.6 for the data
-0≤IL≤4mA
+2. Determine the range of (V<sub>S</sub>) for obtaining a regulated voltage shown in Fig.6 for the data
+0≤(I<sub>L</sub>)≤4mA
 2≤IZ≤8mA
-[Where Z=50V,RS=5KΩ]
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Ans:The range of source voltage is $$50 ≤ V_S ≤ 110 V$$]
+[Where Z=50V,(R<sub>S</sub>)=5KΩ]
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Ans:The range of source voltage is 50 ≤ (V<sub>S</sub>) ≤ 110 V]
 
 <div align="center">
 <img src="images/zndassg2.png" width="50%">
 <p>Figure 6  </p>
 </div>
 
-3. Determine the $$R_{Lmin}$$, where $$R_S$$=1KΩ ,$$V_{in}$$=50V, $$V_Z$$=10V
+3. Determine the R<sub>Lmin</sub>, where R<sub>S</sub>=1KΩ ,Vin=50V, V<sub>Z</sub>=10V
 div align="center">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Ans:$$R_{Lmin}$$=300Ω ]
+
 <div align="center">
 <img src="images/zndassg3.png" width="50%">
 <p>Figure 7  </p>
