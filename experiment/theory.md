@@ -75,21 +75,21 @@ Any load resistance greater than $$R_{Lmin}$$ will make Zener Diode ON
 
 $$I_S  = I_L + I_Z$$
 
-$$R_{Lmin}$$ will establish maximum $$I_L$$ as   
+R<sub>Lmin</sub> will establish maximum I<sub>L</sub> as   
 
 $$I_{Lmax}=\frac{V_L}{R_{Lmin}}= \frac{V_Z}{R_{Lmin}} \qquad Since, V_L=V_Z$$
 
-$$V_S$$is the voltage drop across $$R_S$$
+V<sub>S</sub> is the voltage drop across R<sub>S</sub>
 
 $$V_S = V_{Imin} - V_Z$$
 
 $$I_S = \frac{V_{Imin}− V_Z}{R_S}$$
 
-For $$R_L \le R_{Lmin}$$,
+For $$R_L < R_{Lmin},$$
 
 $$V_O= V_I$$
 
-For $$R_L$$ > $$R_{Lmin}$$,
+For $$R_L > R_{Lmin},$$
 
 $$V_O = V_I − I_S \times R_S$$
 
