@@ -103,42 +103,43 @@ $$V_O = V_I − I_S \times R_S$$
 <p>Figure 5  </p>
 </div>
 
-2. Determine the range of VS for obtaining a regulated voltage shown in Fig.6 for the data
+2. Determine the range of $$V_S$$ for obtaining a regulated voltage shown in Fig.6 for the data
 0≤IL≤4mA
 2≤IZ≤8mA
 [Where Z=50V,RS=5KΩ]
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Ans:The range of source voltage is 50 ≤ VS ≤ 110 V ]
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Ans:The range of source voltage is $$50 ≤ V_S ≤ 110 V$$]
+
 <div align="center">
 <img src="images/zndassg2.png" width="50%">
 <p>Figure 6  </p>
 </div>
 
-3. Determine the $$R_{Lmin}$$, where $$R_S$$=1KΩ ,$$V_{in}$$=50V, VZ=10V
+3. Determine the $$R_{Lmin}$$, where $$R_S$$=1KΩ ,$$V_{in}$$=50V, $$V_Z$$=10V
 div align="center">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Ans:$$R_{Lmin}$$=300Ω ]
-<div>
+<div align="center">
 <img src="images/zndassg3.png" width="50%">
 <p>Figure 7  </p>
 </div>
 
-4. Determine the IL and IZ, where $$R_S$$=160KΩ ,$$V_in$$=24V, $$V_Z$$=12V,
-200≤RL≤∞
+4. Determine the $$I_L$$ and $$I_Z$$, where $$R_S$$=160KΩ ,$$V_in$$=24V, $$V_Z$$=12V,
+$$200≤R_L≤∞$$
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[Ans: 0 ≤ IL ≤ 60 mA & 75 ≥ IZ ≥ 15mA]
+[Ans: 0 ≤ $$I_L$$ ≤ 60 mA & 75 ≥ $$I_Z$$ ≥ 15mA]
 
-<div>
+<div align="center">
 <img src="images/zndassg3.png" width="50%">
 <p>Figure 8  </p>
 </div>
 
 
-5. Determine the IS and IZ,where $$R_S$$=5KΩ , $$V_Z$$=50V, $$R_L$$=10KΩ
-80≤VS≤120
+5. Determine the $$I_S$$ and $$I_Z$$,where $$R_S$$=5KΩ , $$V_Z$$=50V, $$R_L$$=10KΩ
+$$80≤V_S≤120$$
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Ans: 6mA ≤ $$I_S$$ ≤ 14 mA & 1mA ≥ $$I_Z$$ ≥ 9mA]
 
-<div>
+<div align="center">
 <img src="images/zndassg2.png" width="50%">
 <p>Figure 9  </p>
 </div>

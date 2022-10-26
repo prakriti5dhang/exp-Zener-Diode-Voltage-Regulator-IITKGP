@@ -19,14 +19,14 @@
 
 ### Zener Diode - Load Regulation
 1. Set DC voltage.
-2. Set the Series Resistance (RS) value.
+2. Set the Series Resistance (R<sub>S</sub>) value.
 3. 1W D0-41 Glass Zener Diode 1N4740A, Zener voltage is 10 V.
-4. Vary the Load Resistance (RL).
+4. Vary the Load Resistance (R<sub>L</sub>).
 5. Voltmeter is placed parallel to load resistor and ammeter series with the series resistor.
 6. Choose Load Resistance in such a manner, such that the Zener diode is 'on'.
 7. Now note the Voltmeter and Ammeter reading for various Load Resistance.
-8. Increase the load resistance (RL).
-9. Note the Load current(IL), zener current(IZ), Output voltage(VO)
+8. Increase the load resistance (R<sub>L</sub>).
+9. Note the Load current (I<sub>L</sub>), zener current (I<sub>Z</sub>), Output voltage(VO)
 10. Calculate the voltage regulation.
 
 <div align="center">
