@@ -117,28 +117,28 @@ $$V_O = V_I − I_S \times R_S$$
 3. Determine the R<sub>Lmin</sub>, where R<sub>S</sub>=1KΩ ,Vin=50V, V<sub>Z</sub>=10V
 div align="center">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[Ans:$$R_{Lmin}$$=300Ω ]
+[Ans:R<sub>Lmin</sub>=300Ω ]
 
 <div align="center">
-<img src="images/zndassg3.png" width="50%">
+<img src="images/zndassg3.PNG" width="50%">
 <p>Figure 7  </p>
 </div>
 
-4. Determine the $$I_L$$ and $$I_Z$$, where $$R_S$$=160KΩ ,$$V_in$$=24V, $$V_Z$$=12V,
-$$200≤R_L≤∞$$
+4. Determine the I<sub>L</sub> and I<sub>Z</sub>, where R<sub>S</sub>=160KΩ ,V<sub>in</sub>=24V, $$V_Z$$=12V,
+200≤R<sub>L</sub>≤∞
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[Ans: 0 ≤ $$I_L$$ ≤ 60 mA & 75 ≥ $$I_Z$$ ≥ 15mA]
+[Ans: 0 ≤ I<sub>L</sub> ≤ 60 mA & 75 ≥ I<sub>Z</sub> ≥ 15mA]
 
 <div align="center">
-<img src="images/zndassg3.png" width="50%">
+<img src="images/zndassg3.PNG" width="50%">
 <p>Figure 8  </p>
 </div>
 
 
-5. Determine the $$I_S$$ and $$I_Z$$,where $$R_S$$=5KΩ , $$V_Z$$=50V, $$R_L$$=10KΩ
-$$80≤V_S≤120$$
+5. Determine the I<sub>S</sub> and I<sub>Z</sub>,where R<sub>S</sub>=5KΩ , V<sub>Z</sub>=50V, R<sub>L</sub>=10KΩ
+80≤V<sub>S</sub>≤120
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[Ans: 6mA ≤ $$I_S$$ ≤ 14 mA & 1mA ≥ $$I_Z$$ ≥ 9mA]
+[Ans: 6mA ≤ I<sub>S</sub> ≤ 14 mA & 1mA ≥ I<sub>Z</sub> ≥ 9mA]
 
 <div align="center">
 <img src="images/zndassg2.png" width="50%">
