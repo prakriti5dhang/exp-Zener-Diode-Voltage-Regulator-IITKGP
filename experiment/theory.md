@@ -144,3 +144,5 @@ $$V_O = V_I − I_S \times R_S$$
 <img src="images/zndassg2.png" width="50%">
 <p>Figure 9  </p>
 </div>
+
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
